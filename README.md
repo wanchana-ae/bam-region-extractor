@@ -39,6 +39,7 @@ chmod +x ./Cutbam_V2.sh
 ./Cutbam_V2.sh
 ```
 3. Output structure:
+```
 PATH_OUTPUT/
 ├── Chr3_30080831_30081831_Os03g0734400/
 │   ├── W_OS_00001.bam
@@ -48,7 +49,7 @@ PATH_OUTPUT/
     ├── W_OS_00001.bam
     ├── W_OS_00001.bam.bai
     └── ...
-
+```
 ## Configuration
 You can edit the top variables in the script:
 
