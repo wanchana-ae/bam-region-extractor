@@ -1,0 +1,5 @@
+/fs4/coconut_tmp/KT_NKT_project/Call_SV/Long_read_mapping/Our_ref_CnT_ONT_rmdup.bam
+/fs4/coconut_tmp/KT_NKT_project/Call_SV/Long_read_mapping/Our_ref_Cnuc_CPCRI_V2_ONT_rmdup.bam
+/fs4/coconut_tmp/KT_NKT_project/QTL/QTLseq_KT_as_ref/20_bam/parent.bam
+/fs4/coconut_tmp/KT_NKT_project/QTL/QTLseq_KT_as_ref/20_bam/bulk1.bam
+/fs4/coconut_tmp/KT_NKT_project/QTL/QTLseq_KT_as_ref/20_bam/bulk2.bam

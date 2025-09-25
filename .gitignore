@@ -1,0 +1,6 @@
+*.bam
+*.bam.bai
+*.fastq
+*.fq
+tmp/
+PATH_OUTPUT/
