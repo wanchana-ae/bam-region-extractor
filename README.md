@@ -26,14 +26,14 @@ This is useful for analyzing or subsetting BAM files for genes, exons, or genomi
 ### 1. BAM list (`name_bam.txt`)
 A plain text file with one BAM file path per line:
 
-```/path/to/W_OS_00001.bam
-   /path/to/W_OS_00002.bam```
+- `/path/to/W_OS_00001.bam`
+- `/path/to/W_OS_00002.bam`
 
 ### 2. Positions file (`positions.txt`)
 A CSV file with **Chr,Start,Stop,Gene** columns:
 
-```3,30080831,30081831,Os03g0734400
-   3,30430405,30431405,Os03g0741500```
+- `3,30080831,30081831,Os03g0734400`
+- `3,30430405,30431405,Os03g0741500`
 
 ## Configuration
 You can edit the top variables in the script:
