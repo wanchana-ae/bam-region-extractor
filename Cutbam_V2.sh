@@ -3,7 +3,7 @@
 # Cut BAM files by multiple positions with read positions from a file
 # Refactored version
 #================================================================================================
-
+set -euo pipefail
 # Input/Output files
 INFO_FILE="name_bam.txt"       # List of BAM files (one per line)
 POS_FILE="positions.txt"       # Chr,start,stop,gene
